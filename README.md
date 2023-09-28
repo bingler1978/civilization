@@ -26,6 +26,12 @@
 ### 点击[链接](civilization.txt)，将所有代码拷贝到GPT4对话框中，即可开始体验游戏
 ### 或者点击[文明游戏](https://chat.openai.com/share/4b336988-75ca-4186-913a-d94843f5c000)直接继续我的游戏
 
+<img src="./screencapture-chat-openai-1.png" width="500">
+
+<img src="./screencapture-chat-openai-2.png" width="500">
+
+<img src="./screencapture-chat-openai-3.png" width="500">
+
 
 ### 🤝 开源与合作
 
