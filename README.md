@@ -25,3 +25,20 @@
 
 ### 点击[链接](civilization.txt)，将所有代码拷贝到GPT4对话框中，即可开始体验游戏
 ### 或者点击[文明游戏](https://chat.openai.com/share/4b336988-75ca-4186-913a-d94843f5c000)直接继续我的游戏
+
+
+### 🤝 开源与合作
+
+🔗 本游戏为[EmbraceAGI](https://github.com/EmbraceAGI) 开源社区项目
+
+💡 社区姊妹项目
+* [LangGPT 结构化提示词](http://feishu.langgpt.ai)，请点击[链接](https://github.com/yzfly/LangGPT)访问 LangGPT 项目。
+* [🐱🐹人生重来模拟器 LifeReloaded🐹🐱](https://github.com/hamutama/LifeReloaded)，请点击[链接](https://github.com/hamutama/LifeReloaded)访问 LifeReloaded 项目。
+
+🌐 开源合作
+
+> 🔗 本游戏得到了[EmbraceAGI](https://github.com/EmbraceAGI) 开源社区的支持，与 [LangGPT](http://feishu.langgpt.ai) 为姊妹项目。
+
+### 📜 协议
+
+🔗 本项目使用 [CC BY-NC-SA 4.0（知识共享-署名-非商业性使用-相同方式共享 4.0 国际）](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议开源。
